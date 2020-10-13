@@ -6,7 +6,7 @@ These are the projects I made from Data Scientist with Python career  track from
 In this track, we learned how Python language allows you to import, clean, manipulate, and visualize data—all integral skills for any aspiring data professional or researcher. Through interactive exercises, we get hands-on with some of the most popular Python libraries, including pandas, NumPy, Matplotlib, and many more. We then work with real-world datasets to learn the statistical and machine learning techniques we need to train decision trees and use natural language processing (NLP).
 
 
-## [TV, Halftime Shows, and the Big Game](https://github.com/anendozo/Projects/A%20Visual%20History%20of%20Nobel%20Prize%20Winners)
+## [TV, Halftime Shows, and the Big Game](https://github.com/anendozo/Projects/tree/main/A%20Visual%20History%20of%20Nobel%20Prize%20Winners)
 In this project, we load, clean, and explore Super Bowl data. We found out how some of the elements of the show interact with each other. We've answer questions like:
 
 * What are the most extreme game outcomes?
