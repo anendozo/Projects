@@ -41,3 +41,14 @@ We answered questions like:
 
 The dataset used in this project is from The Nobel Foundation on Kaggle.
 
+
+## Dr. Semmelweis and the Discovery of Handwashing
+Hungarian physician Ignaz Semmelweis made a breakthough discovery: discovers handwashing. Contaminated hands was a major cause of childbed fever and by enforcing handwashing at his hospital he saved hundreds of lives.
+
+In this project, we reanalyzed the medical data Dr. Semmelweis collected. 
+
+
+## Predicting Credit Card Approvals
+In this project, we build a machine learning model to predict if a credit card application will get approved.
+
+The dataset used in this project is the Credit Card Approval dataset from the UCI Machine Learning Repository.
