@@ -17,7 +17,7 @@ In this project, we load, clean, and explore Super Bowl data. We found out how s
 The dataset used in this project was scraped and polished from Wikipedia. It is made up of three CSV files, one with game data, one with TV data, and one with halftime musician data for all 52 Super Bowls through 2018.
 
 
-## The Android App Market on Google Play
+## [The Android App Market on Google Play](https://github.com/anendozo/Projects/tree/main/The%20Android%20App%20Market%20on%20Google%20Play)
 In this project, we load, clean, and visualize scraped Google Play Store data to understand the Android app market.
 We do a comprehensive analysis of the Android app market by comparing over ten thousand apps in Google Play across different categories. We looked for insights in the data to devise strategies to drive growth and retention.
 
@@ -27,13 +27,13 @@ apps.csv: contains all the details of the applications on Google Play. There are
 user_reviews.csv: contains 100 reviews for each app, most helpful first. The text in each review has been pre-processed and attributed with three new features: Sentiment (Positive, Negative or Neutral), Sentiment Polarity and Sentiment Subjectivity.
 
 
-## The GitHub History of the Scala Language
+## [The GitHub History of the Scala Language](https://github.com/anendozo/Projects/tree/main/The%20GitHub%20History%20of%20the%20Scala%20Language)
 In this project, we are challenged to read in, clean up, and visualize the real-world project repository of Scala that spans data from a version control system (Git) as well as a project hosting site (GitHub). With almost 30,000 commits and a history spanning over ten years, Scala is a mature language. We find out who has had the most influence on its development and who are the experts.
 
 The dataset includes the project history of Scala retrieved from Git and GitHub as a set of CSV files.
 
 
-## A Visual History of Nobel Prize Winners
+## [A Visual History of Nobel Prize Winners](https://github.com/anendozo/Projects/tree/main/A%20Visual%20History%20of%20Nobel%20Prize%20Winners)
 In this project, we use our data manipulation and visualization skills to explore patterns and trends over 100 years worth of Nobel Prize winners.
 We answered questions like:
 * What characteristics do the prize winners have? 
@@ -42,13 +42,13 @@ We answered questions like:
 The dataset used in this project is from The Nobel Foundation on Kaggle.
 
 
-## Dr. Semmelweis and the Discovery of Handwashing
+## [Dr. Semmelweis and the Discovery of Handwashing](https://github.com/anendozo/Projects/tree/main/Dr.%20Semmelweis%20and%20the%20Discovery%20of%20Handwashing)
 Hungarian physician Ignaz Semmelweis made a breakthough discovery: discovers handwashing. Contaminated hands was a major cause of childbed fever and by enforcing handwashing at his hospital he saved hundreds of lives.
 
 In this project, we reanalyzed the medical data Dr. Semmelweis collected. 
 
 
-## Predicting Credit Card Approvals
+## [Predicting Credit Card Approvals](https://github.com/anendozo/Projects/tree/main/Predicting%20Credit%20Card%20Approvals)
 In this project, we build a machine learning model to predict if a credit card application will get approved.
 
 The dataset used in this project is the Credit Card Approval dataset from the UCI Machine Learning Repository.
